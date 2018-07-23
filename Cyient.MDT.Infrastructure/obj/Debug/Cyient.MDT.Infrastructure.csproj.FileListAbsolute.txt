@@ -1,0 +1,12 @@
+D:\Krishna\GAS Turbine\MDTWebAPI\Cyient.MDT.WebAPI\Cyient.MDT.Infrastructure\bin\Debug\Cyient.MDT.Infrastructure.dll.config
+D:\Krishna\GAS Turbine\MDTWebAPI\Cyient.MDT.WebAPI\Cyient.MDT.Infrastructure\bin\Debug\Cyient.MDT.Infrastructure.dll
+D:\Krishna\GAS Turbine\MDTWebAPI\Cyient.MDT.WebAPI\Cyient.MDT.Infrastructure\bin\Debug\Cyient.MDT.Infrastructure.pdb
+D:\Krishna\GAS Turbine\MDTWebAPI\Cyient.MDT.WebAPI\Cyient.MDT.Infrastructure\bin\Debug\Cyient.MDT.WebAPI.Core.dll
+D:\Krishna\GAS Turbine\MDTWebAPI\Cyient.MDT.WebAPI\Cyient.MDT.Infrastructure\bin\Debug\Cyient.MDT.WebAPI.Notification.dll
+D:\Krishna\GAS Turbine\MDTWebAPI\Cyient.MDT.WebAPI\Cyient.MDT.Infrastructure\bin\Debug\Cyient.MDT.WebAPI.Core.pdb
+D:\Krishna\GAS Turbine\MDTWebAPI\Cyient.MDT.WebAPI\Cyient.MDT.Infrastructure\bin\Debug\Cyient.MDT.WebAPI.Notification.pdb
+D:\Krishna\GAS Turbine\MDTWebAPI\Cyient.MDT.WebAPI\Cyient.MDT.Infrastructure\obj\Debug\Cyient.MDT.Infrastructure.csprojAssemblyReference.cache
+D:\Krishna\GAS Turbine\MDTWebAPI\Cyient.MDT.WebAPI\Cyient.MDT.Infrastructure\obj\Debug\Cyient.MDT.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Krishna\GAS Turbine\MDTWebAPI\Cyient.MDT.WebAPI\Cyient.MDT.Infrastructure\obj\Debug\Cyient.MDT.Infrastructure.csproj.CopyComplete
+D:\Krishna\GAS Turbine\MDTWebAPI\Cyient.MDT.WebAPI\Cyient.MDT.Infrastructure\obj\Debug\Cyient.MDT.Infrastructure.dll
+D:\Krishna\GAS Turbine\MDTWebAPI\Cyient.MDT.WebAPI\Cyient.MDT.Infrastructure\obj\Debug\Cyient.MDT.Infrastructure.pdb
